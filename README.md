@@ -1,4 +1,4 @@
-# tofo
+# todo
 A beautifully designed, modern todo application built with TypeScript and vanilla JavaScript. Features a glassmorphism design with smooth animations and a delightful user experience.
 
 Prerequisites
