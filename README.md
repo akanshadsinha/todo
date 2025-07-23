@@ -24,6 +24,7 @@ Installation
   - npm run dev
 
 - Open your browser and navigate to http://localhost:5173
+- Edit main.ts , style.css and index.html
 
   Structure
 
